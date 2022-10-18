@@ -1,6 +1,6 @@
 
 
-[출처] (https://docs.streamlit.io/library/get-started/create-an-app)
+#[출처] (https://docs.streamlit.io/library/get-started/create-an-app)
   
 
 import streamlit as st
