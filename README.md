@@ -1,7 +1,6 @@
 <img src="https://res.cloudinary.com/dyd911kmh/image/upload/v1640050215/image27_frqkzv.png">
 
 # ais7_demo
-
 * 멋쟁이사자처럼 AIS7 실습
 
 ## Streamlit 배포 실습
